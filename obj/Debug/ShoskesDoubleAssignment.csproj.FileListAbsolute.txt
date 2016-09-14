@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesDoubleAssignment\ShoskesDoubleAssignment\bin\Debug\ShoskesDoubleAssignment.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesDoubleAssignment\ShoskesDoubleAssignment\bin\Debug\ShoskesDoubleAssignment.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesDoubleAssignment\ShoskesDoubleAssignment\bin\Debug\ShoskesDoubleAssignment.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesDoubleAssignment\ShoskesDoubleAssignment\obj\Debug\ShoskesDoubleAssignment.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesDoubleAssignment\ShoskesDoubleAssignment\obj\Debug\ShoskesDoubleAssignment.pdb
